@@ -1,11 +1,11 @@
-package main.com.aluno.dominio.aluno.aluno;
+package main.dominio.aluno.dominionegocio.aluno.aluno;
 
 public class Telefone {
 
     private String ddd;
     private String numero;
 
-    public Telefone(){
+    public Telefone(String ddd, String numero){
         if (ddd == null || numero ==null ){
             throw new IllegalArgumentException("DDD e Numero obrigatorios!");
         }

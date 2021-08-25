@@ -1,6 +1,6 @@
-package main.com.aluno.dominio.aluno.indicacao;
+package main.dominio.aluno.dominionegocio.aluno.indicacao;
 
-import main.com.aluno.dominio.aluno.aluno.Aluno;
+import main.dominio.aluno.dominionegocio.aluno.aluno.Aluno;
 
 import java.time.LocalDateTime;
 

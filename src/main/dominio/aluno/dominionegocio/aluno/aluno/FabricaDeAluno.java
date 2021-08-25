@@ -1,4 +1,4 @@
-package main.com.aluno.dominio.aluno.aluno;
+package main.dominio.aluno.dominionegocio.aluno.aluno;
 
 public class FabricaDeAluno {
 

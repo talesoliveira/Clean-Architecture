@@ -1,4 +1,4 @@
-package main.com.aluno.dominio.aluno.aluno;
+package main.dominio.aluno.dominionegocio.aluno.aluno;
 
 
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ public class Aluno {
     }
 
     public void adicionarTelefone(String ddd, String numero){
-        this.telefones.add(new Telefone());
+        this.telefones.add(new Telefone(ddd, numero));
     }
 
     public Cpf getCpf(){
