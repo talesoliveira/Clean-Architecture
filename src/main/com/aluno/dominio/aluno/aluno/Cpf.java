@@ -1,4 +1,4 @@
-package escola;
+package main.com.aluno.dominio.aluno.aluno;
 
 public class Cpf {
 
